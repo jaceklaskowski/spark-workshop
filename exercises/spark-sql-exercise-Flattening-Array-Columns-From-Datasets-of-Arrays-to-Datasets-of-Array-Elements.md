@@ -6,7 +6,7 @@ Protips™:
 
 1. (intermediate) Assume that the number of elements of all arrays is the same
 
-1. (advanced) Consider [pivot](http://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.sql.RelationalGroupedDataset) operator
+1. (advanced) Consider [pivot](http://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.sql.RelationalGroupedDataset) & [posexplode](https://spark.apache.org/docs/3.1.2/api/scala/org/apache/spark/sql/functions$.html#posexplode) operator
 
 Module: **Spark SQL**
 
