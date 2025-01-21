@@ -1,6 +1,7 @@
 # Adding count to the source DataFrame
 
 Write a structured query that adds aggregations to the input dataset.
+( Do aggregation based on column1 and column2 given below in the dataset ) 
 
 **EXTRA** Can you think of another query to solve it? What's more efficient?
 
